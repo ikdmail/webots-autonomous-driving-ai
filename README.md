@@ -106,7 +106,6 @@ This project is licensed under the Apache License 2.0. See the `LICENSE` file fo
 
 
 ---
-
 ## Acknowledgements（謝辞）
 
 This project utilizes sample assets (e.g., `city.wbt`) from the Webots software, developed by Cyberbotics Sàrl. These assets are licensed under the Apache License, Version 2.0.
