@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+numba
+google-generativeai
+python-dotenv
