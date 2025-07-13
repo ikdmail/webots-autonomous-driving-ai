@@ -103,3 +103,15 @@ After the experiments are complete, run the analysis script.
 ## License
 
 This project is licensed under the Apache License 2.0. See the `LICENSE` file for details.
+
+
+---
+
+## Acknowledgements（謝辞）
+
+This project utilizes sample assets (e.g., `city.wbt`) from the Webots software, developed by Cyberbotics Sàrl. These assets are licensed under the Apache License, Version 2.0.
+
+このプロジェクトは、[Cyberbotics Sàrl](https://cyberbotics.com/)によって開発されたWebotsのサンプルアセット（`city.wbt`など）を利用しています。これらのアセットは、Apache License 2.0 のもとでライセンスされています。
+
+-   **Webots:** [https://cyberbotics.com/](https://cyberbotics.com/)
+-   **Apache License 2.0:** [https://www.apache.org/licenses/LICENSE-2.0](https://www.apache.org/licenses/LICENSE-2.0)
